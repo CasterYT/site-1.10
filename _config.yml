@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Caster Yitong LI
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -43,6 +43,37 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+
+# default setting
+#defaults:
+#  - scope:
+#      path: ""
+#      type: pages
+#    values:
+#      sidebar:
+#        - title: "Title1"
+#          text: "text1"
+#        - title: "Title2"
+#          text: "text2"
+
+# Author profile
+author:
+  name: "Caster Yitong LI"
+  avatar: "/assets/images/Caster.jpg"
+  bio: "What doesn't kill you, makes you stronger."
+  location: "Guangzhou, China"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto: casterlyt@163.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CasterYT"
+
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
