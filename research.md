@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: Research experience
+permalink: /research/
 ---
 
 ### Antenna Technologies for 5G and Future Wireless Communications

@@ -2,6 +2,7 @@
 title: funny
 layout: single
 author_profile: true
+permalink: /funny/
 excerpt: "This post should display a **header with overlay image**."
 header:
   overlay_image: /assets/images/test.JPG

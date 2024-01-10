@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: Education
+permalink: /education/
 ---
 
 ### The Hong Kong University of Science and Technology (Guangzhou)

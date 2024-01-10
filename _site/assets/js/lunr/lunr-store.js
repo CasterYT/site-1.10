@@ -796,4 +796,28 @@ var store = [{
         "tags": [],
         "url": "/jekyll/update/2024/01/06/welcome-to-jekyll.html",
         "teaser": null
+      },{
+        "title": "Edge test1",
+        "excerpt":" ","categories": ["edge"],
+        "tags": [],
+        "url": "/edge/2024/01/09/edge-test1.html",
+        "teaser": null
+      },{
+        "title": "Post test1",
+        "excerpt":" ","categories": ["post"],
+        "tags": [],
+        "url": "/post/2024/01/10/post-test1.html",
+        "teaser": null
+      },{
+        "title": "Post test2",
+        "excerpt":" ","categories": ["post"],
+        "tags": [],
+        "url": "/post/2024/01/10/post-test2.html",
+        "teaser": null
+      },{
+        "title": "Layout test1",
+        "excerpt":" ","categories": ["layout"],
+        "tags": [],
+        "url": "/layout/2024/01/10/layout-test1.html",
+        "teaser": null
       }]
