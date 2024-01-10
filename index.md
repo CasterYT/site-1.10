@@ -1,8 +1,6 @@
 ---
 layout: splash
 author_profile: true
-permalink: /index/
-
 excerpt: "Magical sunset at **Tangjung Aru Beach, Malaysia**."
 header:
   overlay_image: /assets/images/Tangjung Aru.JPEG
