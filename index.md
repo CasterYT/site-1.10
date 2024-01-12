@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 author_profile: true
 excerpt: "Magical sunset at **Tangjung Aru Beach, Malaysia**."
 header:
@@ -10,3 +10,4 @@ header:
     - label: "Learn more"
       url: "https://www.shangri-la.com/en/kotakinabalu/tanjungaruresort/"
 ---
+Welcome to my page, I'm Caster Yitong LI. For more detail info, you may have a look at my [**CV**](/assets/files/CV.pdf).

@@ -44,6 +44,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 
 # default setting
@@ -83,6 +84,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CasterYT"
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/assets/files/CV.pdf"
 
 
 
